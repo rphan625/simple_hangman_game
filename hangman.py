@@ -141,7 +141,6 @@ def displayhangman(failcount):
             print(f"            |               {displayguessed()[0]}")
             print("             =========================================\n")
         
-                
 
 while gamerun:
     
